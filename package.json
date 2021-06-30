@@ -12,7 +12,7 @@
     "main": "index.js",
     "repository": "https://github.com/webcore-it/nuxt-log",
     "homepage": "https://github.com/webcore-it/nuxt-log",
-    "types": "types.d.ts",
+    "types": "./types.d.ts",
     "publishConfig": {
         "access": "public"
     },
